@@ -1,0 +1,19 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Admin;MZ;;;
+FN:MZ Admin
+ORG:MZ LLP
+ADR;TYPE=WORK:135, Cecil Street
+TITLE:Administrator
+TEL;TYPE=CELL:91234567
+TEL;TYPE=WORK:6123456
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:
+EMAIL;TYPE=WORK:mzadm21@gmail.com
+URL;TYPE=Digital Business Card:https://github.com/mz-admin1/mza/
+URL:
+URL;TYPE=Location:https://www.google.com/maps/place/135+Cecil+St,+Singapore+069536/@1.2798521,103.8460558,17z/data=!3m1!4b1!4m6!3m5!1s0x31da190d8c739afd:0x3e48b7caf7b9ef2d!8m2!3d1.2798521!4d103.8486307!16s%2Fg%2F11b8v6181w?entry=ttu
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:Audit | Outsourcing | Tax | Consulting | Advisory
+UID:EnBizCard-100554678
+END:VCARD
